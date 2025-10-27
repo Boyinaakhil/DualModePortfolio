@@ -1,0 +1,147 @@
+⚡ Prompt: Akhil B — Dual-Mode Interactive MERN + DSA Portfolio
+
+Prompt:
+
+Create an advanced, futuristic developer portfolio website for Akhil B (Boyina Akhil) featuring two dynamic panels:
+
+🧠 Panel 1: Terminal View (Default Mode)
+
+Styled like a modern Linux shell, header prompt: akhilb@portfolio:$
+
+Green-on-black hacker aesthetic with slight CRT glow.
+
+Commands supported:
+
+help → lists commands (ls, cat, cd, open, resume, leetcode, gfg, clear, theme)
+
+ls → displays files: about.txt, skills/, projects/, achievements/, resume.pdf
+
+cat about.txt → prints Akhil’s introduction
+
+cd projects → lists real projects with short one-line summaries
+
+open resume.pdf → opens the resume in a modal or viewer
+
+leetcode → fetches LeetCode profile (placeholder API)
+
+gfg → opens GeeksforGeeks profile
+
+theme → toggles theme (neon green, matrix blue, amber CRT)
+
+whoami → returns “Akhil B — MERN Stack Developer | DSA Enthusiast”
+
+sudo rm -rf / → playful Easter egg ASCII art saying “Access Denied! Nice try 😉”
+
+Add:
+
+Typing animation with blinking cursor
+
+Autocomplete on Tab, command history with ↑ ↓ keys
+
+Sound effects for typing and command execution
+
+Animated fake “system uptime” and “memory usage” display
+
+Button → “Switch to Simple View”
+
+💼 Panel 2: Simple View (Professional GUI Mode)
+
+A glassmorphic, animated interface with a clean, modern dark theme.
+
+Smooth Framer Motion transitions and parallax hover effects.
+
+Sections:
+
+👨‍💻 About Me
+
+Hi, I’m Akhil B, a passionate Computer Science undergraduate at Gayatri Vidya Parishad College of Engineering (2024–2027).
+I specialize in MERN stack development, REST APIs, and real-world problem solving through Data Structures and Algorithms.
+I love building scalable full-stack web apps and exploring AI & ML technologies.
+
+🧩 Skills
+
+Languages: JavaScript, C++, Python, Java
+
+Frontend: React, Redux, Tailwind CSS, Bootstrap, React Router
+
+Backend: Node.js, Express.js, REST APIs, JWT, Socket.IO
+
+Database & Hosting: MongoDB, Mongoose, Firebase, Cloudinary
+
+Tools: Git, GitHub, VS Code, Netlify, Vercel, Render, Railway, GitHub Actions
+
+Core Competencies: Data Structures, Algorithms, Web App Optimization, Problem Solving
+
+🚀 Projects
+
+E-Commerce Website (MERN Stack): Full-stack store with login, cart, checkout, filtering, and authentication.
+
+TrackIt Platform: Task & productivity tracker using React, Node, MongoDB; real-time updates for 20+ users.
+
+Grocery List & To-Do App: Simple productivity app built with React + Firebase and CRUD features.
+
+Portfolio v1: The current interactive dual-view website showcasing innovation and full-stack mastery.
+
+🏆 Achievements
+
+Solved 300+ DSA problems across LeetCode & Codeforces.
+
+Active on: LeetCode
+, GeeksforGeeks
+.
+
+Mentor for DSA/Open Source on GitHub & LinkedIn.
+
+Participant in hackathons and coding contests.
+
+Contributor in GitHub Discussions and technical communities.
+
+📫 Contact
+
+Email: akhilboyina2005@gmail.com
+
+GitHub: github.com/Boyinaakhil
+
+LinkedIn: linkedin.com/in/akhil-boyina
+
+LeetCode: leetcode.com/u/Akhil_boyina
+
+GeeksforGeeks: geeksforgeeks.org/user/akhilboybvvi
+
+💡 Innovative Features
+
+Matrix-style animated background with glowing particle trails.
+
+Terminal session logger (export commands to .txt).
+
+Easter egg commands:
+
+motivation → displays random DSA quotes.
+
+stats → shows mock LeetCode heatmap animation.
+
+Animated skill progress bars and hover popups for proficiency levels.
+
+Responsive layout with smooth transitions between views.
+
+Custom glowing cursor and dynamic code rain intro.
+
+🧰 Tech Stack
+
+Frontend: Next.js or React
+
+Styling: TailwindCSS + Framer Motion
+
+Terminal Engine: Xterm.js or custom React-based component
+
+Hosting: Vercel / Netlify compatible
+
+Animations: Framer Motion or GSAP
+
+Performance: Lazy loading, smooth 60fps transitions
+
+🎯 Goal
+
+Design a dual-mode, pro-level portfolio that merges creativity with functionality —
+letting visitors explore Akhil B’s full-stack projects through both an interactive terminal and a sleek GUI,
+showcasing his strengths in MERN stack development, DSA, and real-world coding excellence.
